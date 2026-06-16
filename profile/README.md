@@ -1,3 +1,5 @@
-## Pragmatic Systems
+![Augmented Human Profile](augmented-human-profile-stockcake.jpg)
 
-![Spongebob](sponge-bob-square-pants-waving.jpg)
+## Develop. Deploy. Evolve.
+
+<a href="https://stockcake.com/i/augmented-human-profile_2982283_1479188">Augmented Human Profile</a> by <a href="https://stockcake.com">StockCake</a>
