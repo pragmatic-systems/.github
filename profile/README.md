@@ -1,13 +1,26 @@
-![Augmented Human Profile](augmented-human-profile-stockcake.jpg)
+![Thinking](thinker_rodin_sculpture.jpg)
 
-# Develop. Deploy. Evolve.
-### Production is just the beginning.
+# Don't leave your agents running amock
 
-## Balance
-We understand the difference between AI as a Feature vs AI as a Tool. The tooling for your engineers is not the same as the features for your clients.
+# Code is Easy, State is Hard.
+Building new applications has never been difficult. The real challenge has always been in performance, continuity and state. Getting to production is just the beginning of the system journey, and the real work is keeping the system stable while it grows.
 
-## Breadth
-With over 20 years in the AI space, spanning chess computing, strategy game control systems, expert systems, hypothesis generators, image and lidar processing, heuristics design and dataset curation for ML pipelines, we believe that the machine is part of the journey, and not the ultimate destination.
+## AI Declaration
+It the modern era, it's way too easy to throw the first thing the bot generates over the fence and let someone else handle the fallout. As engineers, we should strive to do better.
 
-## Edge Compute
-With no fixed price for tokens, and the challenges of throughput and third party risk, we believe you should own your compute and control your own models.
+* Development work is assisted with local LLM tooling - Pi Harness, Qwen 3.6 / 3.8 models.
+* Readmes / auto-docs are mostly generated with manual editing.
+* Blog Articles / Posts / Opinions are own words, reviewed with AI, but may include marked AI Summaries.
+
+## Portfolio
+### Pi Agent Sandbox
+Dockerfiles and scripts for running the Pi agent harness in a locked down docker container with developer tools. Comes with scripts to register in %PATH% and can be used to mount your working directory.
+
+### CakeCI
+Platform agnostic CI / CD tool chain built in Dotnet Cake that can be run locally, or through GitHub, Jenkins, CircleCI. Dog-foods itself and uses it's own build to test/verify/publish its own packages.
+
+### CQRS
+Sub-set of MediatR functionality reverse engineered from the interfaces using a local model. Experimenting with 27b weight bot tooling on recursive, generic problems and optimisation. This lands on par with the original.
+
+### TemplateApi
+Template System with Dotnet Api and Postgres Database, comes with comprehensive test harness, running Test Containers and full RBAC support. Currently just a back end services and tooling, but front end is planned.
