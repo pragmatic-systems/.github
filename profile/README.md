@@ -4,7 +4,7 @@
 Building new applications has never been difficult. The real challenge has always been in performance, continuity and state management. Getting to production is just the beginning of the journey, and the real work lies in keeping the system stable while it grows.
 
 ## AI Tooling
-LLMs are a force multiplier, not a replacement. My personal workflow relies on local LLM tooling ([Pi Harness](https://pi.dev/), Qwen models [3.6](https://huggingface.co/collections/Qwen/qwen36),[3.8](https://huggingface.co/collections/Qwen/qwen38)) to handle scaffolding, transformations and boilerplate. All core logic, architecture, state decisions are my own.
+LLMs are a force multiplier, not a replacement. My personal workflow relies on local LLM tooling ([Pi Harness](https://pi.dev/), Qwen [3.6](https://huggingface.co/collections/Qwen/qwen36)/[3.8](https://huggingface.co/collections/Qwen/qwen38)) to handle scaffolding, transformations and boilerplate. All core logic, architecture, state decisions are my own.
 
 * Development: AI-assisted boilerplate and refactoring.
 * Documentation: AI-generated readmes and auto-docs with manual review / edits.
