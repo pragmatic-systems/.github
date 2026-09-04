@@ -1,7 +1,5 @@
 ![Thinking](thinker_rodin_sculpture.jpg)
 
-# Don't leave your agents running amock
-
 # Code is Easy, State is Hard.
 Building new applications has never been difficult. The real challenge has always been in performance, continuity and state. Getting to production is just the beginning of the system journey, and the real work is keeping the system stable while it grows.
 
@@ -13,14 +11,14 @@ It the modern era, it's way too easy to throw the first thing the bot generates 
 * Blog Articles / Posts / Opinions are own words, reviewed with AI, but may include marked AI Summaries.
 
 ## Portfolio
-### Pi Agent Sandbox
+### [Pi Agent Sandbox](https://github.com/pragmatic-systems/Pragmatic.AgentSandbox)
 Dockerfiles and scripts for running the Pi agent harness in a locked down docker container with developer tools. Comes with scripts to register in %PATH% and can be used to mount your working directory.
 
-### CakeCI
+### [CakeCI](https://github.com/pragmatic-systems/Pragmatic.AgentSandbox)
 Platform agnostic CI / CD tool chain built in Dotnet Cake that can be run locally, or through GitHub, Jenkins, CircleCI. Dog-foods itself and uses it's own build to test/verify/publish its own packages.
 
-### CQRS
+### [CQRS](https://github.com/pragmatic-systems/Pragmatic.CQRS)
 Sub-set of MediatR functionality reverse engineered from the interfaces using a local model. Experimenting with 27b weight bot tooling on recursive, generic problems and optimisation. This lands on par with the original.
 
-### TemplateApi
+### [TemplateApi](https://github.com/pragmatic-systems/Pragmatic.TemplateApi)
 Template System with Dotnet Api and Postgres Database, comes with comprehensive test harness, running Test Containers and full RBAC support. Currently just a back end services and tooling, but front end is planned.
