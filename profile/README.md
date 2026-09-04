@@ -14,7 +14,7 @@ It the modern era, it's way too easy to throw the first thing the bot generates 
 ### [Pi Agent Sandbox](https://github.com/pragmatic-systems/Pragmatic.AgentSandbox)
 Dockerfiles and scripts for running the Pi agent harness in a locked down docker container with developer tools. Comes with scripts to register in %PATH% and can be used to mount your working directory.
 
-### [CakeCI](https://github.com/pragmatic-systems/Pragmatic.AgentSandbox)
+### [CakeCI](https://github.com/pragmatic-systems/Pragmatic.CakeCI)
 Platform agnostic CI / CD tool chain built in Dotnet Cake that can be run locally, or through GitHub, Jenkins, CircleCI. Dog-foods itself and uses it's own build to test/verify/publish its own packages.
 
 ### [CQRS](https://github.com/pragmatic-systems/Pragmatic.CQRS)
