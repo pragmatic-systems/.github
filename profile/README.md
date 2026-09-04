@@ -1,13 +1,24 @@
-![Augmented Human Profile](augmented-human-profile-stockcake.jpg)
+![Thinking](thinker_rodin_sculpture.jpg)
 
-# Develop. Deploy. Evolve.
-### Production is just the beginning.
+# Code is Easy, State is Hard.
+Building new applications has never been difficult. The real challenge has always been in performance, continuity and state management. Getting to production is just the beginning of the journey, and the real work lies in keeping the system stable while it grows.
 
-## Balance
-We understand the difference between AI as a Feature vs AI as a Tool. The tooling for your engineers is not the same as the features for your clients.
+## AI Tooling
+LLMs are a force multiplier, not a replacement. My personal workflow relies on local LLM tooling ([Pi Harness](https://pi.dev/), Qwen [3.6](https://huggingface.co/collections/Qwen/qwen36)/[3.8](https://huggingface.co/collections/Qwen/qwen38)) to handle scaffolding, transformations and boilerplate. All core logic, architecture, state decisions are my own.
 
-## Breadth
-With over 20 years in the AI space, spanning chess computing, strategy game control systems, expert systems, hypothesis generators, image and lidar processing, heuristics design and dataset curation for ML pipelines, we believe that the machine is part of the journey, and not the ultimate destination.
+* Development: AI-assisted boilerplate and refactoring.
+* Documentation: AI-generated readmes and auto-docs with manual review / edits.
+* Articles: Blog posts and articles are my own words; AI is used for summaries and review.
 
-## Edge Compute
-With no fixed price for tokens, and the challenges of throughput and third party risk, we believe you should own your compute and control your own models.
+## Projects
+### [Pi Agent Sandbox](https://github.com/pragmatic-systems/Pragmatic.AgentSandbox)
+A hardened, locked-down Docker environment for the Pi agent harness. Designed to provide a secure, reproducible developer tool chain with baked in agent.
+
+### [CakeCI](https://github.com/pragmatic-systems/Pragmatic.CakeCI)
+Platform agnostic CI / CD tool chain built in .Net Cake that can be run locally, or through GitHub, Jenkins, CircleCI. Dog-foods itself to verify, test and publish its own packages.
+
+### [CQRS](https://github.com/pragmatic-systems/Pragmatic.CQRS)
+Sub-set of MediatR functionality re-implemented from the interfaces using a local model. Experimenting with local bot tooling on recursive, generic problems and optimisation. This achieves functional and performance parity with the original, and comes without a license restriction.
+
+### [TemplateApi](https://github.com/pragmatic-systems/Pragmatic.TemplateApi)
+Production ready .Net Api + Postgres template, comes with a Hangfire job server and full OIDC / RBAC support, covered by a comprehensive test harness running on Test Containers. Currently backend-focused, with frontend integration planned.
