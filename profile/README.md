@@ -10,7 +10,7 @@ LLMs are a force multiplier, not a replacement. My personal workflow relies on l
 * Documentation: AI-generated readmes and auto-docs with manual review / edits.
 * Articles: Blog posts and articles are my own words; AI is used for summaries and review.
 
-## Portfolio
+## Projects
 ### [Pi Agent Sandbox](https://github.com/pragmatic-systems/Pragmatic.AgentSandbox)
 A hardened, locked-down Docker environment for the Pi agent harness. Designed to provide a secure, reproducible developer tool chain with baked in agent.
 
