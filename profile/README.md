@@ -9,7 +9,7 @@ LLMs are a force multiplier, not a replacement. My personal workflow relies on l
 * Development: AI-assisted boilerplate and refactoring.
 * Documentation: AI-generated readmes and auto-docs with manual review / edits.
 * Articles: Blog posts and articles are my own words; AI is used for summaries and review.
-* Communication: All natural.
+* Communication: All human.
 
 ## Projects
 ### [Pi Agent Sandbox](https://github.com/pragmatic-systems/Pragmatic.AgentSandbox)
