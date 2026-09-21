@@ -6,7 +6,7 @@ Building new applications has never been difficult. The real challenge has alway
 ## AI Tooling
 LLMs are a force multiplier, not a replacement. My personal workflow relies on local LLM tooling ([Pi Harness](https://pi.dev/), Qwen [3.6](https://huggingface.co/collections/Qwen/qwen36)/[3.8](https://huggingface.co/collections/Qwen/qwen38)) to handle scaffolding, transformations and boilerplate. All core logic, architecture, state decisions are my own.
 
-* Development: AI-assisted boilerplate and refactoring.
+* Development: AI-assisted analysis, boilerplate and refactoring.
 * Documentation: AI-generated readmes and auto-docs with manual review / edits.
 * Articles: Blog posts and articles are my own words; AI is used for summaries and review.
 * Communication: All human.
