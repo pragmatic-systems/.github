@@ -1,7 +1,7 @@
 ![Thinking](thinker_rodin_sculpture.jpg)
 
-# Code is Easy, State is Hard. Proving it works as intended, priceless.
-Building new applications has never been difficult. The real challenge has always been in performance, continuity and state management. Getting to production is just the beginning of the journey, and the real work lies in keeping the system stable while it grows.
+# Code is Easy, State is Hard.
+Building new applications has never been difficult. The real challenge has always been in performance, continuity and state management. Getting to production is just the beginning of the journey, and the real work lies in keeping the system stable while it grows, and proving it works as intended.
 
 ## AI Tooling
 LLMs are a force multiplier, not a replacement. My personal workflow relies on local LLM tooling ([Pi Harness](https://pi.dev/), Qwen [3.6](https://huggingface.co/collections/Qwen/qwen36)/[3.8](https://huggingface.co/collections/Qwen/qwen38)) to handle scaffolding, transformations and boilerplate. All core logic, architecture, state decisions are my own.
