@@ -1,6 +1,6 @@
 ![Thinking](thinker_rodin_sculpture.jpg)
 
-# Code is Easy, State is Hard.
+# Code is Easy, State is Hard. Proving it works as intended, priceless.
 Building new applications has never been difficult. The real challenge has always been in performance, continuity and state management. Getting to production is just the beginning of the journey, and the real work lies in keeping the system stable while it grows.
 
 ## AI Tooling
